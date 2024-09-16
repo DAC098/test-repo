@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("I have been updated to output something different");
 }
